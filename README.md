@@ -1,6 +1,7 @@
-# Hi there! 👋 I'm Summerlemon233
+# Hi there! 👋 I'm Zhuoran Li (李卓然)
 
 ## 🎓 About Me
+- 👨‍💻 **Zhuoran Li** | Applied Physics Major
 - 🏫 **Undergraduate Student** at School of Electronics Engineering and Computer Science, **Peking University** (Class of 2022)
 - 🔬 **Research Intern** at **@pku-lemonade** Lab
 - 🎯 **Research Interests**: Computer Architecture, Advanced Memory Systems, Processing-in-Memory (PIM)
@@ -24,7 +25,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Summerlemon233&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summerlemon233&layout=compact&theme=default"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Summerlemon233&layout=compact&theme=default&count_private=true"/>
 </div>
 
 ## 🔥 Streak Stats
@@ -37,7 +38,7 @@
 ## 📫 Get in Touch
 - 🐱 GitHub: [@Summerlemon233](https://github.com/Summerlemon233)
 - 🏫 PKU Lemonade Lab: [@pku-lemonade](https://github.com/pku-lemonade)
-- Email：2200012710 [at] stu.pku.edu.cn
+- 📧 Email: 2200012710[at]stu.pku.edu.cn
 - 💌 Feel free to reach out for research collaborations or academic discussions!
 
 ---
